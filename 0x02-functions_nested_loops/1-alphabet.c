@@ -16,6 +16,9 @@ void print_alphabet(void)
 	}
 	putchar('\n');
 }
+#include "main.h"
+
+
 /**
  * main - prints alphabets in lowercase
  *
