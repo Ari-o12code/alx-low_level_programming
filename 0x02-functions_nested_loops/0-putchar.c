@@ -1,11 +1,11 @@
-#include "_putchar.h"
+#include <stdio.h>
 
 
 
 /**
- * main - prints Holberton
+ * main - prints_putchar
  *
- * Description: prints Holberton
+ * Description: prints _putchar
  *
  * Return: 0 (Success)
  */
